@@ -1,0 +1,20 @@
+{
+  "name": "deep-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --host 0.0.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepstream.io": "^2.1.2",
+    "deepstream.io-client-js": "^2.1.1",
+    "jquery": "^3.1.1",
+    "pixi.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
